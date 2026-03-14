@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pawan Singh 👋
 
+Electronics & Communication Engineer  
+Interested in Embedded Systems, IoT and PCB Design.
+
+## Skills
+- C / C++
+- Arduino
+- Embedded Systems
+- IoT
+- PCB Design
+
+## Projects
+- Bluetooth Controlled RC Car
+- IoT Based Home Automation
+- Temperature Monitoring System
+
+## Contact
+Email: erpawansingh.work@gmail.com
 <!--
 **erpawan-tech/erpawan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
